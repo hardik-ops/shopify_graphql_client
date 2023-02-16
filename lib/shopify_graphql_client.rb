@@ -1,6 +1,7 @@
 require "shopify_graphql_client/version"
 require "graphql/client"
 require "shopify_api"
+require 'graphql/client/http'
 
 module ShopifyGraphQLClient
   class Error < StandardError; end
