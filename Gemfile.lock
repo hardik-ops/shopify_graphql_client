@@ -87,7 +87,7 @@ DEPENDENCIES
   pry-rescue (~> 1.5)
   rake (~> 10.0)
   rspec (~> 3.8)
-  shopify_api (>= 12.3.0)
+  shopify_api (>= 10.0.0)
   shopify_graphql_client!
 
 BUNDLED WITH
