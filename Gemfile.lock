@@ -71,7 +71,7 @@ GEM
       securerandom
       sorbet-runtime
       zeitwerk (~> 2.5, < 2.6.5)
-    sorbet-runtime (0.5.10667)
+    sorbet-runtime (0.5.10672)
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
     zeitwerk (2.6.4)
@@ -87,7 +87,7 @@ DEPENDENCIES
   pry-rescue (~> 1.5)
   rake (~> 10.0)
   rspec (~> 3.8)
-  shopify_api (>= 10.0.0)
+  shopify_api (>= 12.4.0)
   shopify_graphql_client!
 
 BUNDLED WITH
